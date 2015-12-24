@@ -1,55 +1,56 @@
 var React = require('react')
+var Game = require('./game.jsx')
 
 module.exports = React.createClass({
 
   getDefaultProps() {
     return {
-      yMax: 1560,
-      xMax: 1620
+      gameWidth: 320,
+      gameHeight: 240
     }
   },
 
   getInitialState() {
     return {
-      x: 150,
-      y: 1620
+      width: window.innerWidth,
+      height: window.innerHeight
     }
+  },
+
+  componentWillMount() {
+    window.addEventListener('resize', this.onResize)  
   },
 
   render () {
     var style = this.createStyle()
     return (
       <div style={style}>
-        {this.renderCharacter()}
+        <Game width={this.props.gameWidth} height={this.props.gameHeight} />
       </div>
     )
   },
 
-  renderCharacter () {
-    var style = {
-      top: this.props.height/2,
-      left: this.props.width/2,
-      position: 'absolute'
-    }
-
-    return (
-      <img style={style} src={'assets/sprites/paula/south-1.gif'} />
-    )
-  },
-
   createStyle () {
-    console.log('this.state', this.state)
-    console.log('this', this)
     var style = {
-      width: this.props.width,
-      height: this.props.height,
-      border: '1px solid red',
-      backgroundImage: 'url(assets/maps/fourside.png)',
-      backgroundPosition: [-this.state.x+'px', -this.state.y+'px'].join(' '),
-      backgroundRepeat: 'no-repeat',
-      imageRendering: 'pixelated'
+      // border: '1px solid red',
+      background: 'rgba(50,50,50,1)',
+      position: 'fixed',
+      top: 0,
+      left: 0,
+      display: 'flex',
+      justifyContent: 'center',
+      alignItems: 'center',
+      width: this.state.width,
+      height: this.state.height,
     }
 
     return style
+  },
+
+  onResize () {
+    this.setState({
+      width: window.innerWidth,
+      height: window.innerHeight
+    })
   }
 })
