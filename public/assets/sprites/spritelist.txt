@@ -1,0 +1,1875 @@
+EarthBound Sprite List 1.3 by Squirty Saturn
+
+This sprite list has been created to help you find certain images from 
+the
+EarthBound Sprite Archive or Tomato's EarthBound Sprite Editor. I would
+highly recommend using the "Find" feature (Search - Find... for Windows 
+Notepad)
+as it will definitely help you find the exact picture you are looking 
+for.
+Please only distribute this file if it has not been edited. It is 
+possible that
+I have made a few mistakes or typos, so if you find any, please send a 
+message
+to squirty@virtualeclipse.ca.
+
+
+*************
+Contact Info:
+*************
+If you have any questions, comments, or suggestions, please contact me 
+at
+squirty@virtualeclipse.ca
+
+
+***************
+Special Thanks:
+***************
+I'd like to thank whoever made the Sprite Archive, as it is great for 
+doing
+anything related to EarthBound and also Tomato for making the Sprite 
+Editor.
+Thanks also goes out to Jonk who helped with a couple of the names and 
+gave me
+the PSI Rockin' MP3s that I listened to during most of the creation of 
+this file.
+
+
+*****************
+Table of Contents
+*****************
+1. Ness
+-All the Ness images
+
+2. Paula
+-All the Paula images
+
+3. Jeff
+-All the Jeff images
+
+4. Poo
+-All the Poo images
+
+5. Main Characters in other Forms
+-Ness, Paula, Jeff, and Poo in forms like robots, etc..
+
+6. Ness's Family
+
+7. Minch Family
+
+8. Runaway Five
+
+9. Misc Characters
+-This includes all the characters that can be given names like Talah 
+Rama for
+example. It also includes characters like the burger shop girl.
+
+10. Generic Characters
+-All the characters that don't have names are here.
+
+11. Animals
+
+12. Other Intelligent Species
+-Talking Rocks, Mr. Saturns, and Tendas
+
+13. Enemies
+
+14. Bosses
+
+15. Item Boxes
+
+16. Signs
+-Street signs and stuff
+
+17. Misc Props, etc
+-Mail boxes, phones, clouds, and all that stuff
+
+18. Machines and Vehicles
+-Like Helicopters and stuff
+
+19. Misc Special Effects
+-Smoke, splashes, shadows, etc...
+
+20. Your Sanctuary Stuff
+-Your Sanctuary stars and all that.
+
+
+
+*******
+1. NESS
+*******
+
+0 - Ness on a bike (front)
+1 - Ness on a bike (back)
+2 - Ness on a bike (moving west #1)
+3 - Ness on a bike (moving west #2)
+4 - Ness on a bike (moving south-west #1)
+5 - Ness on a bike (moving south-west #2)
+6 - Ness on a bike (moving north-west #1)
+7 - Ness on a bike (moving north-west #2)
+
+68 - Ness in PJs (front)
+69 - Ness in PJs (back)
+70 - Ness in PJs (moving west #1)
+71 - Ness in PJs (moving west #2)
+72 - Ness in PJs (moving south-west #1)
+73 - Ness in PJs (moving south-west #2)
+74 - Ness in PJs (moving north-west #1)
+75 - Ness in PJs (moving north-west #2)
+76 - Ness in PJs (moving south #1)
+77 - Ness in PJs (moving south #2)
+78 - Ness in PJs (moving north)
+79 - Ness in PJs (moving west #3)
+80 - Ness in PJs (moving west #4)
+81 - Ness in PJs (moving south-west #3)
+82 - Ness in PJs (moving south-west #4)
+83 - Ness in PJs (moving north-west #3)
+84 - Ness in PJs (moving north-west #4)
+85 - Ness in PJs (front #2)
+
+95 - Ness (front)
+96 - Ness (back)
+97 - Ness (moving west #1)
+98 - Ness (moving west #2)
+99 - Ness (moving south-west #1)
+100 - Ness (moving south-west #2)
+101 - Ness (moving north-west #1)
+102 - Ness (moving north-west #2)
+103 - Ness (moving south)
+
+924 - Tiny Ness (front)
+912 - Tiny Ness (back)
+913 - Tiny Ness (moving west #1)
+914 - Tiny Ness (moving west #2)
+925 - Tiny Ness (moving west #3)
+926 - Tiny Ness (moving west #4)
+
+1139 - Tiny Ness (Peace)
+
+933 - Ness climbing #1
+934 - Ness climbing #2
+
+1030 - Ness's sleeping head #1 (with hat)
+1031 - Ness's sleeping head #2 (with hat)
+
+1032 - Ness's sleeping head #1 (without hat)
+1033 - Ness's sleeping head #2 (without hat)
+
+1083 - Ness (sitting)
+
+1096 - Ness (lying down)
+
+1090 - Ness (falling)
+
+1095 - Ness (climbing)
+
+1097 - Ness (Peace)
+
+
+********
+2. PAULA
+********
+
+140 - Paula (front)
+141 - Paula (back)
+142 - Paula (moving west #1)
+143 - Paula (moving west #2)
+144 - Paula (moving south-west #1)
+145 - Paula (moving south-west #2)
+146 - Paula (moving north-west #1)
+147 - Paula (moving north-west #2)
+
+921 - Tiny Paula (front)
+922 - Tiny Paula (moving west #1)
+923 - Tiny Paula (moving west #2)
+
+931 - Paula climbing #1
+932 - Paula climbing #2
+
+1082 - Paula (sitting)
+
+1086 - Paula (lying down)
+
+1089 - Paula (falling)
+
+1094 - Paula (climbing)
+
+
+*******
+3. JEFF
+*******
+
+132 - Jeff (front)
+133 - Jeff (back)
+134 - Jeff (moving west #1)
+135 - Jeff (moving west #2)
+136 - Jeff (moving south-west #1)
+137 - Jeff (moving south-west #2)
+138 - Jeff (moving north-west #1)
+139 - Jeff (moving north-west #2)
+
+918 - Tiny Jeff (front)
+919 - Tiny Jeff (moving west #1)
+920 - Tiny Jeff (moving west #2)
+
+929 - Jeff climbing #1
+930 - Jeff climbing #2
+
+1040 - Jeff sleeping
+
+1085 - Jeff (lying down)
+
+1088 - Jeff (falling)
+
+1093 - Jeff (climbing)
+
+
+******
+4. POO
+******
+
+124 - Poo (front)
+125 - Poo (back)
+126 - Poo (moving west #1)
+127 - Poo (moving west #2)
+128 - Poo (moving south-west #1)
+129 - Poo (moving south-west #2)
+130 - Poo (moving north-west #1)
+131 - Poo (moving north-west #2)
+
+907 - Poo meditating #1
+908 - Poo meditating #2
+
+915 - Tiny Poo (front)
+916 - Tiny Poo (moving west #1)
+917 - Tiny Poo (moving west #2)
+
+927 - Poo climbing #1
+928 - Poo climbing #2
+
+1084 - Poo (lying down)
+
+1087 - Poo (falling)
+
+1092 - Poo (climbing)
+
+
+*********************************
+5. MAIN CHARACTERS IN OTHER FORMS
+*********************************
+
+86 - Ness as Robo (front)
+87 - Ness as Robo (back)
+88 - Ness as Robo (moving west #1)
+89 - Ness as Robo (moving west #2)
+90 - Ness as Robo (moving south-west #1)
+91 - Ness as Robo (moving south-west #2)
+92 - Ness as Robo (moving north-west #1)
+93 - Ness as Robo (moving north-west #2)
+94 - Ness as Robo (moving south)
+
+1081 - Ness as Robo (destroyed)
+
+115 - Generic Robo (front)
+116 - Generic Robo (back)
+117 - Generic Robo (moving west #1)
+118 - Generic Robo (moving west #2)
+119 - Generic Robo (moving south-west #1)
+120 - Generic Robo (moving south-west #2)
+121 - Generic Robo (moving north-west #1)
+122 - Generic Robo (moving north-west #2)
+
+1091 - Generic Robo (destroyed)
+
+752 - Dimondized character (front)
+753 - Dimondized character (back)
+754 - Dimondized character (facing west)
+
+1076 - Dimondized character (front)
+
+1141 - Tiny Dimondized character??
+
+764 - Ness as a ghost (front)
+765 - Ness as a ghost (back)
+766 - Ness as a ghost (facing west)
+
+1080 - Ness as a ghost (front)
+
+761 - Paula as a ghost (front)
+762 - Paula as a ghost (back)
+763 - Paula as a ghost (facing west)
+
+1079 - Paula as a ghost (falling)
+
+758 - Jeff as a ghost (front)
+759 - Jeff as a ghost (back)
+760 - Jeff as a ghost (facing west)
+
+1078 - Jeff as a ghost (falling)
+
+755 - Poo as a ghost (front)
+756 - Poo as a ghost (back)
+757 - Poo as a ghost (facing west)
+
+1077 - Poo as a ghost (falling)
+
+1036 - Tiny ghost (front)
+1037 - Tiny ghost (facing west)
+
+1098 - Burnt person (from PSI Teleport)
+
+1140 - Tiny Burnt person (from PSI Teleport)
+
+
+****************
+6. NESS'S FAMILY
+****************
+
+367 - Tracy (front)
+368 - Tracy (back)
+369 - Tracy (moving west #1)
+370 - Tracy (moving west #2)
+
+371 - Ness's Mom (front)
+372 - Ness's Mom (back)
+373 - Ness's Mom (moving west #1)
+374 - Ness's Mom (moving west #2)
+
+1072 - Ness's Mom (sitting)
+
+245 - Black Phone
+246 - Black Phone ringing #1
+247 - Black Phone ringing #2
+248 - Black Phone ringing #3
+
+159 - King (front)
+160 - King (back)
+161 - King (moving west #1)
+162 - King (moving west #2)
+
+773 - King sleeping #1
+774 - King sleeping #2
+
+954 - King (climbing #1)
+955 - King (climbing #2)
+
+1100 - King (climbing?)
+
+819 - Puppy King (front)
+820 - Puppy King (back)
+821 - Puppy King (moving west #1)
+822 - Puppy King (moving west #2)
+
+
+***************
+7. MINCH FAMILY
+***************
+
+359 - Lardna Minch (front)
+360 - Lardna Minch (back)
+361 - Lardna Minch (moving west #1)
+362 - Lardna Minch (moving west #2)
+
+363 - Aloysius Minch (front)
+364 - Aloysius Minch (back)
+365 - Aloysius Minch (moving west #1)
+366 - Aloysius Minch (moving west #2)
+
+702 - Picky (front)
+703 - Picky (back)
+704 - Picky (moving west #1)
+705 - Picky (moving west #2)
+950 - Picky (sleeping #1)
+951 - Picky (sleeping #2)
+
+706 - Pokey (front)
+707 - Pokey (back)
+708 - Pokey (moving west #1)
+709 - Pokey (moving west #2)
+
+694 - Pokey in suite (front)
+695 - Pokey in suite (back)
+696 - Pokey in suite (moving west #1)
+697 - Pokey in suite (moving west #2)
+
+1143 - Pokey's Head (facing east)
+
+691 - Heavily Armed Pokey (front)
+
+
+***************
+8. RUNAWAY FIVE
+***************
+
+197 - R5 guy with sax (front)
+198 - R5 guy with sax (back)
+199 - R5 guy with sax (moving west #1)
+200 - R5 guy with sax (moving west #2)
+201 - R5 guy with sax (moving south)
+
+202 - R5 guy with cello (front)
+203 - R5 guy with cello (back)
+204 - R5 guy with cello (moving west #1)
+205 - R5 guy with cello (moving west #2)
+206 - R5 guy with cello (moving south)
+
+207 - R5 guy with drum (front)
+208 - R5 guy with drum (back)
+209 - R5 guy with drum (moving west #1)
+210 - R5 guy with drum (moving west #2)
+211 - R5 guy with drum (moving south)
+
+1136 - R5 guy with drum (head)
+
+350 - Lucky (front)
+351 - Lucky (back)
+352 - Lucky (moving west #1)
+353 - Lucky (moving west #2)
+
+891 - Lucky (moving west with head turned #1)
+892 - Lucky (moving west with head turned #2)
+
+355 - Gorgeous (front)
+356 - Gorgeous (back)
+357 - Gorgeous (moving west #1)
+358 - Gorgeous (moving west #2)
+
+897 - Gorgeous (moving west with head turned #1)
+898 - Gorgeous (moving west with head turned #2)
+
+895 - Keyboard guy #1
+896 - Keyboard guy #2
+
+996 - Cymbal #1
+997 - Cymbal #2
+
+1068 - Microphone
+
+
+******************
+9. MISC CHARACTERS
+******************
+
+18 - Brick Road (Dungeon Man)
+
+314 - Brick Road (front)
+315 - Brick Road (back)
+316 - Brick Road (moving west #1)
+317 - Brick Road (moving west #2)
+
+1137 - Brick Road (head)
+
+407 - Hint Guy without the sign (front)
+408 - Hint Guy without the sign (back)
+409 - Hint Guy without the sign (moving west #1)
+410 - Hint Guy without the sign (moving west #2)
+
+171 - Hint guy with the sign (front #1)
+172 - Hint guy with the sign (front #2)
+
+249 - Electra [Monotoli's maid] (front)
+250 - Electra [Monotoli's maid] (back)
+251 - Electra [Monotoli's maid] (moving west #1)
+252 - Electra [Monotoli's maid] (moving west #2)
+
+254 - Healer (front)
+255 - Healer (back)
+256 - Healer (moving west #1)
+257 - Healer (moving west #2)
+
+258 - Tony (front)
+259 - Tony (back)
+260 - Tony (moving west #1)
+261 - Tony (moving west #2)
+
+1029 - Tony Sleeping
+
+1071 - Tony crouching
+
+266 - Apple Kid (front)
+267 - Apple Kid (back)
+268 - Apple Kid (moving west #1)
+269 - Apple Kid (moving west #2)
+
+270 - Orange Kid (front)
+271 - Orange Kid (back)
+272 - Orange Kid (moving west #1)
+273 - Orange Kid (moving west #2)
+
+274 - Mr. Spoon (front)
+275 - Mr. Spoon (back)
+276 - Mr. Spoon (moving west #1)
+277 - Mr. Spoon (moving west #2)
+
+298 - Venus (front)
+299 - Venus (back)
+300 - Venus (moving west #1)
+301 - Venus (moving west #2)
+
+893 - Venus (moving south #1)
+894 - Venus (moving south #2)
+
+310 - Dr. Andonuts (front)
+311 - Dr. Andonuts (back)
+312 - Dr. Andonuts (moving west #1)
+313 - Dr. Andonuts (moving west #2)
+
+322 - Carpainter (front)
+323 - Carpainter (back)
+324 - Carpainter (moving west #1)
+325 - Carpainter (moving west #2)
+
+326 - Everdred (front)
+327 - Everdred (back)
+328 - Everdred (moving west #1)
+329 - Everdred (moving west #2)
+
+1069 - Everdred (ghost)
+1070 - Everdred (falling)
+1073 - Everdred (lying down)
+
+330 - Paula's Mother (front)
+331 - Paula's Mother (back)
+332 - Paula's Mother (moving west #1)
+333 - Paula's Mother (moving west #2)
+
+334 - Paula's Father (front)
+335 - Paula's Father (back)
+336 - Paula's Father (moving west #1)
+337 - Paula's Father (moving west #2)
+
+338 - Frank (front)
+339 - Frank (back)
+340 - Frank (moving west #1)
+341 - Frank (moving west #2)
+
+342 - Lier X. Agerate (front)
+343 - Lier X. Agerate (back)
+344 - Lier X. Agerate (moving west #1)
+345 - Lier X. Agerate (moving west #2)
+
+346 - Mach Pizza Delivery Guy (front)
+347 - Mach Pizza Delivery Guy (back)
+348 - Mach Pizza Delivery Guy (moving west #1)
+349 - Mach Pizza Delivery Guy (moving west #2)
+
+375 - Illegal Weapons Dealer (front)
+376 - Illegal Weapons Dealer (back)
+377 - Illegal Weapons Dealer (moving west #1)
+378 - Illegal Weapons Dealer (moving west #2)
+
+380 - Camera Guy (front)
+381 - Camera Guy (back)
+382 - Camera Guy (moving west #1)
+383 - Camera Guy (moving west #2)
+
+383 - Burger Shop Girl (front)
+384 - Burger Shop Girl (back)
+385 - Burger Shop Girl (moving west #1)
+386 - Burger Shop Girl (moving west #2)
+
+391 - Nurse (front)
+392 - Nurse (back)
+393 - Nurse (moving west #1)
+394 - Nurse (moving west #2)
+
+395 - Doctor (front)
+396 - Doctor (back)
+397 - Doctor (moving west #1)
+398 - Doctor (moving west #2)
+
+403 - Baker (front)
+404 - Baker (back)
+405 - Baker (moving west #1)
+406 - Baker (moving west #2)
+
+411 - Escargo Express delivery guy (front)
+412 - Escargo Express delivery guy (back)
+413 - Escargo Express delivery guy (moving west #1)
+414 - Escargo Express delivery guy (moving west #2)
+
+491 - kid brother Pincho / big brother Pancho / Tomas Jefferson (front)
+492 - kid brother Pincho / big brother Pancho / Tomas Jefferson (back)
+493 - kid brother Pincho / big brother Pancho / Tomas Jefferson (facing 
+west)
+494 - kid brother Pincho / big brother Pancho / Tomas Jefferson (facing 
+east)
+
+942 - kid brother Pincho / big brother Pancho / Tomas Jefferson (hands 
+in the air)
+943 - kid brother Pincho / big brother Pancho / Tomas Jefferson (moving 
+south)
+
+495 - Pokey's Bodyguard (front)
+496 - Pokey's Bodyguard (back)
+497 - Pokey's Bodyguard (moving west #1)
+498 - Pokey's Bodyguard (moving west #2)
+
+503 - Black Rabbit Statue (front)
+504 - Black Rabbit Statue (back)
+505 - Black Rabbit Statue (moving west #1)
+506 - Black Rabbit Statue (moving west #2)
+
+515 - Strange Shop owner guy from Magicant (front)
+516 - Strange Shop owner guy from Magicant (back)
+517 - Strange Shop owner guy from Magicant (moving west #1)
+518 - Strange Shop owner guy from Magicant (moving west #2)
+
+520 - Star Master [the mysterious man that trains Poo] (front)
+521 - Star Master [the mysterious man that trains Poo] (facing west)
+522 - Star Master [the mysterious man that trains Poo] (back)
+
+899 - Star Master [the mysterious man that trains Poo] (spinning #1)
+900 - Star Master [the mysterious man that trains Poo] (spinning #2)
+
+555 - Zombie Chick (Woman in bathing suite #1) (front)
+556 - Zombie Chick (Woman in bathing suite #1) (back)
+557 - Zombie Chick (Woman in bathing suite #1) (moving west #1)
+558 - Zombie Chick (Woman in bathing suite #1) (moving west #2)
+
+567 - Tessie watcher (front)
+568 - Tessie watcher (back)
+569 - Tessie watcher (moving west #1)
+570 - Tessie watcher (moving west #2)
+
+579 - Mr. T (front)
+580 - Mr. T (back)
+581 - Mr. T (moving west #1)
+582 - Mr. T (moving west #2)
+
+948 - Mr. T (from Scaraba) (front)
+949 - Mr. T (from Scaraba) (facing west)
+
+591 - Travelling Entertainer (front)
+592 - Travelling Entertainer (back)
+593 - Travelling Entertainer (moving west #1)
+594 - Travelling Entertainer (moving west #2)
+
+595 - Captain Strong (front)
+596 - Captain Strong (back)
+597 - Captain Strong (moving west #1)
+598 - Captain Strong (moving west #2)
+
+599 - Police Officer (Cop) (front)
+600 - Police Officer (Cop) (back)
+601 - Police Officer (Cop) (moving west #1)
+602 - Police Officer (Cop) (moving west #2)
+
+1099 - Smiling Police Officer (Cop) (front)
+
+1045 - Smiling Police Officer (Cop) Head (front)
+1046 - Smiling Police Officer (Cop) Head (facing west)
+
+603 - Hotel Bell Boy (front)
+604 - Hotel Bell Boy (back)
+605 - Hotel Bell Boy (moving west #1)
+606 - Hotel Bell Boy (moving west #2)
+
+623 - Maxwell (really tired looking guy) (front)
+624 - Maxwell (really tired looking guy) (back)
+625 - Maxwell (really tired looking guy) (moving west #1)
+626 - Maxwell (really tired looking guy) (moving west #2)
+
+627 - Librarian (Woman in red dress) (front)
+628 - Librarian (Woman in red dress) (Librarian) (back)
+629 - Librarian (Woman in red dress) (Librarian) (moving west #1)
+630 - Librarian (Woman in red dress) (Librarian) (moving west #2)
+
+691 - Heavily Armed Pokey (front)
+
+710 - Flying Man (front)
+711 - Flying Man (back)
+712 - Flying Man (moving west #1)
+713 - Flying Man (moving west #2)
+
+767 - Jackie (bartender from Jackie's Cafe) [Moonside] (front)
+768 - Jackie (bartender from Jackie's Cafe) [Moonside] (front, head 
+turned west)
+
+769 - Jackie (bartender from Jackie's Cafe) [Fourside] (front)
+
+817 - Talah Rama #1
+818 - Talah Rama #2
+
+901 - Dalaam Phone (front)
+902 - Dalaam Phone (facing west)
+
+935 - Deep Darkness ATM machine #1
+936 - Deep Darkness ATM machine #2
+
+946 - Noble warrior [tribal guy from south Scaraba] (front #1)
+947 - Noble warrior [tribal guy from south Scaraba] (front #2)
+
+1027 - Buzz Buzz #1
+1028 - Buzz Buzz #2
+
+
+**********************
+10. GENERIC CHARACTERS
+**********************
+
+*Male*
+
+619 - Blond guy with blue shirt (front)
+620 - Blond guy with blue shirt (back)
+621 - Blond guy with blue shirt (moving west #1)
+622 - Blond guy with blue shirt (moving west #2)
+
+643 - Nerd guy (front)
+644 - Nerd guy (back)
+645 - Nerd guy (moving west #1)
+646 - Nerd guy (moving west #2)
+
+467 - Nerd in orange (front)
+468 - Nerd in orange (back)
+469 - Nerd in orange (moving west #1)
+470 - Nerd in orange (moving west #2)
+
+647 - Guy in black (front)
+648 - Guy in black (back)
+649 - Guy in black (moving west #1)
+650 - Guy in black (moving west #2)
+
+675 - Guy in blue (front)
+676 - Guy in blue (back)
+677 - Guy in blue (moving west #1)
+678 - Guy in blue (moving west #2)
+
+651 - Guy in black suite #1 (front)
+652 - Guy in black suite #1 (back)
+653 - Guy in black suite #1 (moving west #1)
+654 - Guy in black suite #1 (moving west #2)
+
+655 - Guy in black suite #2 (front)
+656 - Guy in black suite #2 (back)
+657 - Guy in black suite #2 (moving west #1)
+658 - Guy in black suite #2 (moving west #2)
+
+905 - Guy in black suite #3 (front)
+906 - Guy in black suite #3 (facing west)
+
+903 - Guy in green stripped suite (front)
+904 - Guy in green stripped suite (facing west)
+
+507 - Dalaamese Guy #1 (front)
+508 - Dalaamese Guy #1 (back)
+509 - Dalaamese Guy #1 (moving west #1)
+510 - Dalaamese Guy #1 (moving west #2)
+
+551 - Dalaamese Guy #2 (front)
+552 - Dalaamese Guy #2 (back)
+553 - Dalaamese Guy #2 (moving west #1)
+554 - Dalaamese Guy #2 (moving west #2)
+
+579 - Mr. T (front)
+580 - Mr. T (back)
+581 - Mr. T (moving west #1)
+582 - Mr. T (moving west #2)
+
+948 - Mr. T (from Scaraba) (front)
+949 - Mr. T (from Scaraba) (facing west)
+
+523 - Scaraba guy #1 (front)
+524 - Scaraba guy #1 (back)
+525 - Scaraba guy #1 (moving west #1)
+526 - Scaraba guy #1 (moving west #2)
+
+527 - Scaraba guy #2 (front)
+528 - Scaraba guy #2 (back)
+529 - Scaraba guy #2 (moving west #1)
+530 - Scaraba guy #2 (moving west #2)
+
+531 - Scaraba guy #3 (front)
+532 - Scaraba guy #3 (back)
+533 - Scaraba guy #3 (moving west #1)
+534 - Scaraba guy #3 (moving west #2)
+
+1075 - Scaraba guy #4 (front)
+
+946 - Tribal guy from south Scaraba (front #1)
+947 - Tribal guy from south Scaraba (front #2)
+
+659 - Big shot in red (front)
+660 - Big shot in red (back)
+661 - Big shot in red (moving west #1)
+662 - Big shot in red (moving west #2)
+
+282 - Construction worker (front)
+283 - Construction worker (back)
+284 - Construction worker (moving west #1)
+285 - Construction worker (moving west #1)
+
+278 - Construction worker #2 (front)
+279 - Construction worker #2 (back)
+280 - Construction worker #2 (moving west #1)
+281 - Construction worker #2 (moving west #2)
+
+459 - Jason (guy with mask) (front)
+460 - Jason (guy with mask) (back)
+461 - Jason (guy with mask) (moving west #1)
+462 - Jason (guy with mask) (moving west #2)
+
+479 - I love NY guy (front)
+480 - I love NY guy (back)
+481 - I love NY guy (moving west #1)
+482 - I love NY guy (moving west #2)
+
+463 - Tough guy in red (front)
+464 - Tough guy in red (back)
+465 - Tough guy in red (moving west #1)
+466 - Tough guy in red (moving west #2)
+
+539 - Sailor #1 (front)
+540 - Sailor #1 (back)
+541 - Sailor #1 (moving west #1)
+542 - Sailor #1 (moving west #2)
+
+543 - Sailor #2 (front)
+544 - Sailor #2 (back)
+545 - Sailor #2 (moving west #1)
+546 - Sailor #2 (moving west #2)
+
+559 - Guy in bathing suite #1 (front)
+560 - Guy in bathing suite #1 (back)
+561 - Guy in bathing suite #1 (moving west #1)
+562 - Guy in bathing suite #1 (moving west #2)
+
+575 - Guy in bathing suite #2 (front)
+576 - Guy in bathing suite #2 (back)
+577 - Guy in bathing suite #2 (moving west #1)
+578 - Guy in bathing suite #2 (moving west #2)
+
+615 - Blond guy with nice tan (front)
+616 - Blond guy with nice tan (back)
+617 - Blond guy with nice tan (moving west #1)
+618 - Blond guy with nice tan (moving west #2)
+
+563 - Punk guy (front)
+564 - Punk guy (back)
+565 - Punk guy (moving west #1)
+566 - Punk guy (moving west #2)
+
+583 - Guy with braided hair, shades, orange shirt (front)
+584 - Guy with braided hair, shades, orange shirt (back)
+585 - Guy with braided hair, shades, orange shirt (moving west #1)
+586 - Guy with braided hair, shades, orange shirt (moving west #2)
+
+587 - Trumpet guy with mask (front)
+588 - Trumpet guy with mask (back)
+589 - Trumpet guy with mask (moving west #1)
+590 - Trumpet guy with mask (moving west #2)
+
+607 - Hippie guy (front)
+608 - Hippie guy (back)
+609 - Hippie guy (moving west #1)
+610 - Hippie guy (moving west #2)
+
+623 - Really tired looking guy (Maxwell) (front)
+624 - Really tired looking guy (Maxwell) (back)
+625 - Really tired looking guy (Maxwell) (moving west #1)
+626 - Really tired looking guy (Maxwell) (moving west #2)
+
+770 - Coffee guy (front #1)
+771 - Coffee guy (front #2)
+772 - Coffee guy (moving west #1)
+
+909 - Tiny guy? (front)
+910 - Tiny guy? (facing west)
+911 - Tiny guy? (back)
+
+671 - Old guy in black suite (front)
+672 - Old guy in black suite (back)
+673 - Old guy in black suite (moving west #1)
+674 - Old guy in black suite (moving west #2)
+
+679 - Old guy in green with hat (front)
+680 - Old guy in green with hat (back)
+681 - Old guy in green with hat (moving west #1)
+682 - Old guy in green with hat (moving west #2)
+
+302 - Old guy (front)
+303 - Old guy (back)
+304 - Old guy (moving west #1)
+305 - Old guy (moving west #2)
+
+294 - Old guy from Dalaam (front)
+295 - Old guy from Dalaam (back)
+296 - Old guy from Dalaam (moving west #1)
+297 - Old guy from Dalaam (moving west #2)
+
+431 - Boy from Tree House #1 (front)
+432 - Boy from Tree House #1 (back)
+433 - Boy from Tree House #1 (moving west #1)
+434 - Boy from Tree House #1 (moving west #2)
+
+435 - Boy from Tree House #2 (front)
+436 - Boy from Tree House #2 (back)
+437 - Boy from Tree House #2 (moving west #1)
+438 - Boy from Tree House #2 (moving west #2)
+
+439 - Boy from Tree House #3 (front)
+440 - Boy from Tree House #3 (back)
+441 - Boy from Tree House #3 (moving west #1)
+442 - Boy from Tree House #3 (moving west #2)
+
+443 - Boy in blue (front)
+444 - Boy in blue (back)
+445 - Boy in blue (moving west #1)
+446 - Boy in blue (moving west #2)
+
+475 - Really dirty kid (front)
+476 - Really dirty kid (back)
+477 - Really dirty kid (moving west #1)
+478 - Really dirty kid (moving west #2)
+
+483 - Snow Wood Boarding School Kid #1 (front)
+484 - Snow Wood Boarding School Kid #1 (back)
+485 - Snow Wood Boarding School Kid #1 (moving west #1)
+486 - Snow Wood Boarding School Kid #1 (moving west #2)
+
+487 - Snow Wood Boarding School Kid #2 (front)
+488 - Snow Wood Boarding School Kid #2 (back)
+489 - Snow Wood Boarding School Kid #2 (moving west #1)
+490 - Snow Wood Boarding School Kid #2 (moving west #2)
+
+*Female*
+
+627 - Woman in red dress (Librarian) (front)
+628 - Woman in red dress (Librarian) (back)
+629 - Woman in red dress (Librarian) (moving west #1)
+630 - Woman in red dress (Librarian) (moving west #2)
+
+262 - Woman in black dress (front)
+263 - Woman in black dress (back)
+264 - Woman in black dress (moving west #1)
+265 - Woman in black dress (moving west #2)
+
+631 - Woman in black (front)
+632 - Woman in black (back)
+633 - Woman in black (moving west #1)
+634 - Woman in black (moving west #2)
+
+635 - Woman in red (front)
+636 - Woman in red (back)
+637 - Woman in red (moving west #1)
+638 - Woman in red (moving west #2)
+
+639 - Woman in blue (front)
+640 - Woman in blue (back)
+641 - Woman in blue (moving west #1)
+642 - Woman in blue (moving west #2)
+
+663 - Woman with big smile #1 (front)
+664 - Woman with big smile #1 (back)
+665 - Woman with big smile #1 (moving west #1)
+666 - Woman with big smile #1 (moving west #2)
+
+667 - Woman with big smile #2 (front)
+668 - Woman with big smile #2 (back)
+669 - Woman with big smile #2 (moving west #1)
+670 - Woman with big smile #2 (moving west #2)
+
+471 - Woman with french painter hat thing (front)
+472 - Woman with french painter hat thing (back)
+473 - Woman with french painter hat thing (moving west #1)
+474 - Woman with french painter hat thing (moving west #2)
+
+746 - Blond woman in pink dress (front)
+747 - Blond woman in pink dress (back)
+748 - Blond woman in pink dress (moving west)
+
+547 - Dalaamese Woman #1 (front)
+548 - Dalaamese Woman #1 (back)
+549 - Dalaamese Woman #1 (moving west #1)
+550 - Dalaamese Woman #1 (moving west #2)
+
+387 - Woman in black suit (front)
+388 - Woman in black suit (back)
+389 - Woman in black suit (moving west #1)
+390 - Woman in black suit (moving west #2)
+
+447 - Woman in yellow dress (front)
+448 - Woman in yellow dress (back)
+449 - Woman in yellow dress (moving west #1)
+450 - Woman in yellow dress (moving west #2)
+
+499 - Woman with REALLY big smile (front)
+500 - Woman with REALLY big smile (back)
+501 - Woman with REALLY big smile (moving west #1)
+502 - Woman with REALLY big smile (moving west #2)
+
+535 - Scaraba woman (front)
+536 - Scaraba woman (back)
+537 - Scaraba woman (moving west #1)
+538 - Scaraba woman (moving west #2)
+
+555 - Woman in bathing suite #1 (Zombie Chick) (front)
+556 - Woman in bathing suite #1 (Zombie Chick) (back)
+557 - Woman in bathing suite #1 (Zombie Chick) (moving west #1)
+558 - Woman in bathing suite #1 (Zombie Chick) (moving west #2)
+
+571 - Woman in bathing suite #2 (front)
+572 - Woman in bathing suite #2 (back)
+573 - Woman in bathing suite #2 (moving west #1)
+574 - Woman in bathing suite #2 (moving west #2)
+
+611 - Woman with fancy hat (front)
+612 - Woman with fancy hat (back)
+613 - Woman with fancy hat (moving west #1)
+614 - Woman with fancy hat (moving west #2)
+
+683 - Old lady #1 (front)
+684 - Old lady #1 (back)
+685 - Old lady #1 (moving west #1)
+686 - Old lady #1 (moving west #2)
+
+687 - Old lady (man?) #2 (front)
+688 - Old lady (man?) #2 (back)
+689 - Old lady (man?) #2 (moving west #1)
+690 - Old lady (man?) #2 (moving west #2)
+
+306 - Dalaamese Girl #1 (front)
+307 - Dalaamese Girl #1 (back)
+308 - Dalaamese Girl #1 (moving west #1)
+309 - Dalaamese Girl #1 (moving west #2)
+
+399 - Girl in red and white stripes (front)
+400 - Girl in red and white stripes (back)
+401 - Girl in red and white stripes (moving west #1)
+402 - Girl in red and white stripes (moving west #2)
+
+423 - Little girl in red dress #1 (front)
+424 - Little girl in red dress #1 (back)
+425 - Little girl in red dress #1 (moving west #1)
+426 - Little girl in red dress #1 (moving west #2)
+
+451 - Little girl in red dress #2 (front)
+452 - Little girl in red dress #2 (back)
+453 - Little girl in red dress #2 (moving west #1)
+454 - Little girl in red dress #2 (moving west #2)
+
+455 - Little girl in pink dress (front)
+456 - Little girl in pink dress (back)
+457 - Little girl in pink dress (moving west #1)
+458 - Little girl in pink dress (moving west #2)
+
+427 - Little girl in yellow dress (front)
+428 - Little girl in yellow dress (back)
+429 - Little girl in yellow dress (moving west #1)
+430 - Little girl in yellow dress (moving west #2)
+
+
+***********
+11. ANIMALS
+***********
+
+19 - Tessie
+
+151 - Cat (front)
+152 - Cat (back)
+153 - Cat (moving west #1)
+154 - Cat (moving west #2)
+
+155 - Dog (front)
+156 - Dog (back)
+157 - Dog (moving west #1)
+158 - Dog (moving west #2)
+
+159 - King (front)
+160 - King (back)
+161 - King (moving west #1)
+162 - King (moving west #2)
+
+773 - King sleeping #1
+774 - King sleeping #2
+
+954 - King (climbing #1)
+955 - King (climbing #2)
+
+1100 - King (climbing?)
+
+819 - Puppy King (front)
+820 - Puppy King (back)
+821 - Puppy King (moving west #1)
+822 - Puppy King (moving west #2)
+
+173 - Camel #1
+174 - Camel #2
+
+175 - Cow #1
+176 - Cow #2
+
+698 - Bubble Monkey (front)
+699 - Bubble Monkey (back)
+700 - Bubble Monkey (moving west #1)
+701 - Bubble Monkey (moving west #2)
+
+177 - Bubble Monkey (blowing bubble #1)
+178 - Bubble Monkey (blowing bubble #2)
+
+865 - Bubble Monkey (floating with bubble)
+
+952 - Bubble Monkey (climbing #1)
+953 - Bubble Monkey (climbing #2)
+
+419 - Male Monkey (front)
+420 - Male Monkey (back)
+421 - Male Monkey (moving west #1)
+422 - Male Monkey (moving west #2)
+
+318 - Girl Monkey (front)
+319 - Girl Monkey (back)
+320 - Girl Monkey (moving west #1)
+321 - Girl Monkey (moving west #2)
+
+415 - Exit mouse (front)
+416 - Exit mouse (back)
+417 - Exit mouse (moving west #1)
+418 - Exit mouse (moving west #2)
+
+857 - Exit mouse's mother (front)
+858 - Exit mouse's mother (back)
+859 - Exit mouse's mother (moving west #1)
+860 - Exit mouse's mother (moving west #2)
+
+692 - Magic Butterfly #1 (without shadow)
+693 - Magic Butterfly #2 (without shadow)
+
+982 - Magic Butterfly #1 (with shadow)
+983 - Magic Butterfly #2 (with shadow)
+
+710 - Flying Man (front)
+711 - Flying Man (back)
+712 - Flying Man (moving west #1)
+713 - Flying Man (moving west #2)
+
+823 - Chick (front)
+824 - Chick (back)
+825 - Chick (moving west #1)
+826 - Chick (moving west #2)
+
+813 - Helpful Mole (front #1)
+813 - Helpful Mole (front #2)
+813 - Helpful Mole (facing west)
+813 - Helpful Mole (back)
+
+940 - Myna bird #1
+941 - Myna bird #2
+
+981 - Sleeping Cat
+
+1027 - Buzz Buzz #1
+1028 - Buzz Buzz #2
+
+1041 - Bird #1
+1042 - Bird #2
+
+
+*****************************
+12. OTHER INTELLIGENT SPECIES
+*****************************
+
+212 - Tenda (front)
+213 - Tenda (back)
+214 - Tenda (moving west #1)
+215 - Tenda (moving west #2)
+216 - Tenda (facing west)
+
+937 - Tiny Tenda (front)
+938 - Tiny Tenda (back)
+939 - Tiny Tenda (facing west)
+
+290 - Elder Tenda (front)
+291 - Elder Tenda (back)
+292 - Elder Tenda (moving west #1)
+293 - Elder Tenda (moving west #2)
+
+286 - Mr. Saturn (front)
+287 - Mr. Saturn (back)
+288 - Mr. Saturn (moving west #1)
+289 - Mr. Saturn (moving west #2)
+
+803 - Talking Rock
+
+1115 - Tiny Talking Rock
+
+
+***********
+13. ENEMIES
+***********
+
+24 - Crocodile (front)
+25 - Crocodile (back)
+26 - Crocodile (moving west #1)
+27 - Crocodile (moving west #2)
+
+28 - Bear (front)
+29 - Bear (back)
+30 - Bear (moving west #1)
+31 - Bear (moving west #2)
+
+32 - Runaway Dog (front)
+33 - Runaway Dog (back)
+34 - Runaway Dog (moving west #1)
+35 - Runaway Dog (moving west #2)
+
+36 - Cave Boy (front)
+37 - Cave Boy (back)
+38 - Cave Boy (moving west #1)
+39 - Cave Boy (moving west #2)
+
+40 - Chomposaur (front)
+41 - Chomposaur (back)
+42 - Chomposaur (moving west #1)
+43 - Chomposaur (moving west #2)
+
+44 - Buffalo (front)
+45 - Buffalo (back)
+46 - Buffalo (moving west #1)
+47 - Buffalo (moving west #2)
+
+48 - Wetnosaur (front)
+49 - Wetnosaur (back)
+50 - Wetnosaur (moving west #1)
+51 - Wetnosaur (moving west #2)
+
+52 - Crested Booka (front)
+53 - Crested Booka (back)
+54 - Crested Booka (moving west #1)
+55 - Crested Booka (moving west #2)
+
+56 - Goat (front)
+57 - Goat (back)
+58 - Goat (moving west #1)
+59 - Goat (moving west #2)
+
+60 - Zombie Dog (front)
+61 - Zombie Dog (back)
+62 - Zombie Dog (moving west #1)
+63 - Zombie Dog (moving west #2)
+
+64 - Mad Taxi (front)
+65 - Mad Taxi (back)
+66 - Mad Taxi (moving west #1)
+67 - Mad Taxi (moving west #2)
+
+185 - Ego Orb #1
+186 - Ego Orb #2
+
+189 - Oak #1
+190 - Oak #2
+
+191 - (Bionic) Kraken #1
+192 - (Bionic) Kraken #2
+
+195 - Demonic Petunia #1
+196 - Demonic Petunia #2
+
+217 - Mummy [Shattered Man?] (front)
+218 - Mummy [Shattered Man?] (back)
+219 - Mummy [Shattered Man?] (moving west #1)
+220 - Mummy [Shattered Man?] (moving west #2)
+221 - Mummy [Shattered Man?] (crumpled up on the ground)
+
+222 - Trash Can enemy (moving south)
+223 - Trash Can enemy (back)
+224 - Trash Can enemy (moving west #1)
+225 - Trash Can enemy (moving west #2)
+226 - Trash Can ememy (not moving)
+
+511 - Happy Happyist (colors screwed up...) (front)
+512 - Happy Happyist (colors screwed up...) (back)
+513 - Happy Happyist (colors screwed up...) (moving west #1)
+514 - Happy Happyist (colors screwed up...) (moving west #2)
+
+714 - Trick or Treat Kid (front)
+715 - Trick or Treat Kid (back)
+716 - Trick or Treat Kid (moving west #1)
+717 - Trick or Treat Kid (moving west #2)
+
+718 - Urban Zombie (front)
+719 - Urban Zombie (back)
+720 - Urban Zombie (moving west #1)
+721 - Urban Zombie (moving west #2)
+944 - Urban Zombie (lying down #1)
+945 - Urban Zombie (lying down #2)
+
+722 - Zombie Possessor (front)
+723 - Zombie Possessor (back)
+724 - Zombie Possessor (moving west #1)
+725 - Zombie Possessor (moving west #2)
+
+1116 - Ghost (from when you are possessed)
+
+726 - Ranboob (front)
+727 - Ranboob (back)
+728 - Ranboob (moving west #1)
+729 - Ranboob (moving west #2)
+
+730 - Manly Fish (front)
+731 - Manly Fish (back)
+732 - Manly Fish (moving west #1)
+733 - Manly Fish (moving west #2)
+
+734 - Mad Duck (front)
+735 - Mad Duck (back)
+736 - Mad Duck (moving west #1)
+737 - Mad Duck (moving west #2)
+
+738 - Shark member (front)
+739 - Shark member (back)
+740 - Shark member (moving west #1)
+741 - Shark member (moving west #2)
+
+742 - Snake (front)
+743 - Snake (back)
+744 - Snake (moving west #1)
+745 - Snake (moving west #2)
+
+775 - Guardian Hieroglyph (facing west #1)
+776 - Guardian Hieroglyph (facing west #2)
+777 - Guardian Hieroglyph (facing west #3)
+
+778 - Sentry Robot (front)
+779 - Sentry Robot (back)
+780 - Sentry Robot (moving west)
+
+781 - Handsome Tom (moving south #1)
+782 - Handsome Tom (moving south #2)
+783 - Handsome Tom (resting)
+
+784 - Spiteful Crow (moving west #1)
+785 - Spiteful Crow (moving west #2)
+786 - Spiteful Crow (resting)
+
+828 - Criminal Caterpillar (front)
+829 - Criminal Caterpillar (back)
+830 - Criminal Caterpillar (moving west #1)
+831 - Criminal Caterpillar (moving west #2)
+
+832 - Rowdy Mouse (front)
+833 - Rowdy Mouse (back)
+834 - Rowdy Mouse (moving west #1)
+835 - Rowdy Mouse (moving west #2)
+
+836 - Mole Playing Rough (front)
+837 - Mole Playing Rough (back)
+838 - Mole Playing Rough (moving west #1)
+839 - Mole Playing Rough (moving west #2)
+
+840 - Mole (front)
+841 - Mole (back)
+842 - Mole (moving west #1)
+843 - Mole (moving west #2)
+
+844 - Skelpion (front)
+845 - Skelpion (back)
+846 - Skelpion (moving west #1)
+847 - Skelpion (moving west #2)
+
+848 - Gigantic Ant (front)
+849 - Gigantic Ant (back)
+850 - Gigantic Ant (moving west #1)
+851 - Gigantic Ant (moving west #2)
+
+852 - Abstract Art
+
+853 - Ramblin'/Struttin' Evil Mushroom (moving #1)
+854 - Ramblin'/Struttin' Evil Mushroom (standing)
+855 - Ramblin'/Struttin' Evil Mushroom (moving #2)
+856 - Ramblin'/Struttin' Evil Mushroom (resting)
+
+861 - Foppy (front)
+862 - Foppy (back)
+863 - Foppy (moving west #1)
+864 - Foppy (moving west #2)
+
+956 - Dali's Clock #1
+957 - Dali's Clock #2
+
+958 - Conducting Menace flashy thing #1
+959 - Conducting Menace flashy thing #2
+
+960 - Noose Man (moving west #1)
+961 - Noose Man (moving west #2)
+
+964 - Lethal Asp Hieroglyph #1
+965 - Lethal Asp Hieroglyph #2
+966 - Lethal Asp Hieroglyph #3
+
+967 - Mobile Sprout (moving #1)
+968 - Mobile Sprout (not moving)
+969 - Mobile Sprout (moving #2)
+
+970 - Diamond shaped enemy #1
+971 - Diamond shaped enemy #2
+
+972 - UFO #1
+973 - UFO #2
+
+974 - Starman
+975 - Starman warping
+
+976 - Smilin' Sphere #1
+977 - Smilin' Sphere #2
+
+978 - Bat (flying #1)
+979 - Bat (flying #2)
+980 - Bat (not moving)
+
+984 - Heart #1
+985 - Heart #2
+
+1047 - No Good Fly #1
+1048 - No Good Fly #2
+
+1049 - Small enemy #1 (attack slug, etc.)
+1050 - Small enemy #2 (attack slug, etc.)
+
+1051 - Slimy Little Pile #1
+1052 - Slimy Little Pile #2
+
+1053 - Violent Roach #1
+1054 - Violent Roach #2
+
+1057 - Armored Frog #1
+1058 - Armored Frog #2
+
+1059 - Flame enemy #1
+1060 - Flame enemy #2
+
+1061 - Question Mark enemy #1
+1062 - Question Mark enemy #2
+
+1063 - Electro Swoosh #1
+1064 - Electro Swoosh #2
+
+1102 - Crazed Sign
+
+
+**********
+14. BOSSES
+**********
+
+179 - Dept. Store Spook (front)
+180 - Dept. Store Spook (looking west)
+
+183 - Master Belch #1
+184 - Master Belch #2
+
+187 - Master Barf #1
+188 - Master Barf #2
+
+191 - Kraken #1
+192 - Kraken #2
+
+193 - Mani Mani/Ness's Nightmare #1
+194 - Mani Mani/Ness's Nightmare #2
+
+1000 - Broken Mani Mani
+
+338 - Frank (front)
+339 - Frank (back)
+340 - Frank (moving west #1)
+341 - Frank (moving west #2)
+
+794 - Frankystein
+
+802 - Boogie Tent mouth
+988 - Boogie Tent eye
+
+827 - Guardian Digger
+
+1101 - Clumsy Robot (front)
+
+
+**************
+15. ITEM BOXES
+**************
+
+1025 - Present (closed)
+1026 - Present (open)
+
+1038 - Tiny Present (closed)
+1039 - Tiny Present (open)
+
+169 - Casket (closed)
+170 - Casket (open)
+
+962 - Casket from Scaraba (closed)
+963 - Casket from Scaraba (open)
+
+1005 - Treasure chest (closed)
+1006 - Treasure chest (open)
+
+1018 - Trash Can (closed)
+1019 - Trash Can (open)
+
+
+*********
+16. SIGNS
+*********
+
+787 - Hotel sign
+
+788 - Burglin Park sign
+
+792 - Orange Kid sign
+
+793 - Apple Kid sign
+
+1007 - Street sign
+
+1009 - Don't Enter sign
+
+1020 - Bus Stop sign
+
+1102 - Crazed Sign (enemy)
+
+1106 - Hot Springs sign
+
+1130 - Small generic sign
+
+
+*******************
+17. MISC PROPS, ETC
+*******************
+
+123 - Camera (fuzzy pickles anyone?)
+
+804 - ATM Machine
+
+163 - Mr. Saturn ATM Machine #1 (colors screwed up...)
+164 - Mr. Saturn ATM Machine #2 (colors screwed up...)
+
+935 - Deep Darkness ATM machine #1
+936 - Deep Darkness ATM machine #2
+
+167 - Ness's crib #1
+168 - Ness's crib #2
+
+227 - Instant Revitalizing Device (colors screwed up...)
+
+228 - Twisty things off of the Palace in Dalaam
+
+236 - Window curtain (on angle)
+237 - Window curtain (front)
+238 - Window blind (front)
+
+106 - "HELI" (Helicopter) lable
+
+244 - Hot dog stand
+
+245 - Black Phone
+246 - Black Phone ringing #1
+247 - Black Phone ringing #2
+248 - Black Phone ringing #3
+
+809 - Green Phone
+
+790 - Paret Phone #1
+791 - Paret Phone #2
+
+1142 - Tiny Paret Phone
+
+901 - Dalaam Phone (front)
+902 - Dalaam Phone (facing west)
+
+354 - Piece of bridge to Fourside (maybe?)
+866 - Piece of bridge to Fourside (maybe?)
+
+749 - Teddy Bear (front)
+750 - Teddy Bear (back)
+751 - Teddy Bear (facing west)
+
+1074 - Teddy Bear (front)
+
+1034 - Tiny Teddy Bear (front)
+1035 - Tiny Teddy Bear (facing west)
+
+789 - Apple Kid's Tools
+
+799 - Rock
+
+805 - Prison Door
+
+807 - Jukebox
+
+808 - Casket above the Hawk Eye
+
+810 - Bike
+
+811 - Meteor #1
+812 - Meteor #2
+
+870 - Metal Eraser #1
+871 - Metal Eraser #2
+
+878 - Metal Pencil #1
+879 - Metal Pencil #2
+
+875 - Flag #1
+876 - Flag #2
+
+877 - Potted tree
+
+886 - Street light
+
+1021 - Street light
+
+887 - Cloud
+
+1109 - Cloud
+
+888 - Smoke #1
+889 - Smoke #2
+890 - Smoke #3
+
+991 - Doors behind Sphinx
+
+992 - Mr. Saturn's chain and ball #1
+993 - Mr. Saturn's chain and ball #2
+
+1000 - Broken Mani Mani
+
+1003 - Animal skeleton
+
+1004 - Slot machine
+
+1010 - Mail Box
+
+1018 - Trash Can (closed)
+1019 - Trash Can (open)
+
+1022 - Twisty warp thing from Magicant
+
+1023 - Road Block
+
+1024 - Bench
+
+1043 - Magicant Flower #1
+1044 - Magicant Flower #2
+
+1067 - Rope (wound up)
+
+996 - Cymbal #1
+997 - Cymbal #2
+
+1068 - Microphone
+
+1105 - Money Box
+
+1110 - Leaf
+
+1112 - Hawk Eye
+
+1114 - TV
+
+1117 - Fly Honey
+
+1118 - Piece of wood
+
+1119 - Rock
+
+1120 - Tombstone
+
+1124 - Mushroom
+
+1125 - Can
+
+1126 - Banana
+
+1127 - Apple
+
+1132 - Light Bulb
+
+1055 - Bent over cross / cactus #1
+1056 - Bent over cross / cactus #2
+
+1065 - Floating Pill #1
+1066 - Floating Pill #2
+
+1103 - Red grate thing
+
+1111 - Part of a chalkboard?
+
+1113 - Bone?
+
+
+*************************
+18. MACHINES AND VEHICLES
+*************************
+
+8 - Runaway Five Bus (moving south-west)
+9 - Runaway Five Bus (moving north-east)
+10 - Runaway Five Bus (moving east)
+
+11 - City Bus (moving south-west)
+12 - City Bus (moving north-west)
+13 - City Bus (moving west)
+
+14 - Taxi (moving south-west)
+15 - Taxi (moving north-east)
+16 - Taxi (moving east)
+17 - Taxi (moving west)
+
+105 - Helicopter
+232 - Helicopter Crashed
+
+229 - Helicopter propeller (moving #1)
+230 - Helicopter propeller (moving #2)
+231 - Helicopter propeller (not moving)
+
+867 - Back Helicopter propeller (moving #1)
+868 - Back Helicopter propeller (moving #2)
+869 - Back Helicopter propeller (not moving)
+
+107 - Cop car (back #1)
+108 - Cop car (back #2)
+
+111 - Boat (front #1)
+112 - Boat (front #2)
+
+880 - Boat (zoomed out) (front #1)
+881 - Boat (zoomed out) (front #2)
+
+113 - Truck #1 (moving east)
+
+114 - Truck #2 (moving east)
+
+148 - Backhoe (truck with big shovel)
+
+149 - Phase Distorter
+243 - Phase Distorter crashed
+
+150 - Sky Runner
+
+1104 - Sky Runner electricity jolts (from when you get near the 
+destination)
+
+242 - Red car with cool-dood in it
+
+691 - Heavily Armed Pokey (front)
+
+806 - The Yellow Submarine
+
+1001 - Submarine periscope #1
+1002 - Submarine periscope #2
+
+
+************************
+19. MISC SPECIAL EFFECTS
+************************
+
+20 - Poof #1
+21 - Poof #2
+22 - Poof #3
+23 - Poof #4
+
+104 - Blank
+
+1011 - Blank
+
+1108 - Blank
+
+872 - Green
+
+109 - Door (being nocked)
+110 - Door (opened)
+
+233 - Pink geyser #1
+234 - Pink geyser #2
+235 - Pink geyser #3
+
+239 - Flame #1
+240 - Flame #2
+241 - Flame #3
+
+253 - Mu floating head thing
+
+795 - Giygas Ness thing #1
+796 - Giygas Ness thing #2
+797 - Giygas Ness thing #3
+798 - Giygas Ness thing #4
+
+800 - Water ripple #1
+801 - Water ripple #2
+
+873 - Water ripple #1
+874 - Water ripple #2
+
+885 - Water ripple
+
+986 - Water ripple #1
+987 - Water ripple #2
+
+802 - Boogie Tent mouth
+
+958 - Conducting Menace flashy thing #1
+959 - Conducting Menace flashy thing #2
+
+989 - Sparkle / Star #1
+990 - Sparkle / Star #2
+
+1014 - Sparkle / Star #1
+1015 - Sparkle / Star #2
+
+994 - Glowing thing #1
+995 - Glowing thing #2
+
+998 - Steam #1
+999 - Steam #2
+
+1008 - Shadow (of the Sky Runner?)
+
+1138 - Shadow
+
+1012 - Rain drop (from Rainy Circle)
+1013 - Rain drop splashing (from Rainy Circle)
+
+1016 - Sweat #1
+1017 - Sweat #2
+
+1104 - Sky Runner electricity jolts (from when you get near the 
+destination)
+
+1107 - "zzz.." (white)
+1133 - "zzz.." (black)
+
+1134 - "Pu Pu.."
+
+1135 - Music
+
+1110 - Leaf
+
+1116 - Ghost (from when you are possessed)
+
+1121 - Very small black spot
+1122 - Very small white spot
+
+1123 - Exclamation Mark
+
+1131 - Question Mark
+
+1128 - Surprised lines (above head)
+1129 - Surprised lines (to the left of the head)
+
+1132 - Light Bulb
+
+
+************************
+20. YOUR SANCTUARY STUFF
+************************
+
+181 - Your Sanctuary Boss Star #1
+182 - Your Sanctuary Boss Star #2
+
+165 - Magnet Hill #1
+166 - Magnet Hill #2
+
+882 - Spray from Milky Well #1
+882 - Spray from Milky Well #2
+882 - Spray from Milky Well #3
+
+1012 - Rain drop (from Rainy Circle)
+1013 - Rain drop splashing (from Rainy Circle)
