@@ -44,11 +44,15 @@ module.exports = React.createClass({
     var theta = this.calculateTheta()
 
     if (!this.isMoving()) theta = this.state.lastTheta
-    var step = 1 + Math.floor(this.state.distance/8) % 2
+    var step = Math.floor(this.state.distance/8) % 2
 
     return (
       <div style={style}>
-        <Player theta={theta} step={step}/>
+        <Player
+          name={'paula'}
+          theta={theta}
+          step={step}
+          nDirections={8} />
       </div>
     )
   },

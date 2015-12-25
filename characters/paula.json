@@ -1,0 +1,39 @@
+{
+  "width": 16,
+  "height": 24,
+  "sprite": "/assets/sprites/Paula.png",
+  "orientations": {
+    "south": [
+      [0, 0, false],
+      [0, 0, true]
+    ],
+    "north": [
+      [1, 0, false],
+      [1, 0, true]
+    ],
+    "west": [
+      [2, 0, false],
+      [3, 0, false]
+    ],
+    "east": [
+      [2, 0, true],
+      [3, 0, true]
+    ],
+    "southWest": [
+      [0, 1, false],
+      [1, 1, false]
+    ],
+    "southEast": [
+      [0, 1, true],
+      [1, 1, true]
+    ],
+    "northWest": [
+      [2, 1, false],
+      [3, 1, false]
+    ],
+    "northEast": [
+      [2, 1, true],
+      [3, 1, true]
+    ],
+  }
+}
