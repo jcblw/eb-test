@@ -1,31 +1,21 @@
 var React = require('react')
 var Player = require('./player.jsx')
 
-var keys = {
-  38: 'up',
-  40: 'down',
-  37: 'left',
-  39: 'right',
-  87: 'up', // w
-  65: 'left', // a
-  83: 'down', // s
-  68: 'right', // d
-}
-
-var actionIntervals = {}
-
 module.exports = React.createClass({
 
   getDefaultProps() {
     return {
       yMax: 1560,
-      xMax: 1620
+      xMax: 1620,
+      width: 320,
+      height: 240,
+      speed: 0.10
     }
   },
 
   getInitialState() {
     return {
-      x: 150,
+      x: 250,
       y: 1620,
       isMovingNorth: false,
       isMovingSouth: false,
@@ -41,25 +31,11 @@ module.exports = React.createClass({
     window.addEventListener('keydown', this.onKeyDown)
     window.addEventListener('keyup', this.onKeyUp)
     var lastTime = Date.now()
-    this.moveLoop = setInterval(function () {
-      var elapsed = Date.now() - lastTime
-      var v = elapsed * 0.10
-      if (self.isMoving()) {
-        var theta = self.calculateTheta()
-        var x = self.state.x - (Math.cos(theta) * v)
-        var y = self.state.y - (Math.sin(theta) * v)
-        var distance = self.state.distance + v
-        self.setState({x: x, y: y, distance: distance})
-      } else {
-        self.setState({v: 0})
-      }
-
-      lastTime = Date.now()
-    }, 0)
+    this.moveInterval = setInterval(this.moveLoop, 0)
   },
 
   componentWillUnmount() {
-    clearInterval(this.moveLoop)
+    clearInterval(this.moveInterval)
   },
 
   render () {
@@ -137,5 +113,32 @@ module.exports = React.createClass({
       this.state.isMovingSouth
 
     return isMoving
+  },
+
+  moveLoop () {
+    var lastTime = this.lastTime || Date.now() - 50
+    this.lastTime = Date.now()
+
+    if (!this.isMoving()) return this.setState({v: 0})
+
+    var elapsed = Date.now() - lastTime
+    var v = elapsed * this.props.speed
+
+    var theta = this.calculateTheta()
+    var x = this.state.x - (Math.cos(theta) * v)
+    var y = this.state.y - (Math.sin(theta) * v)
+    var distance = this.state.distance + v
+    this.setState({x: x, y: y, distance: distance})
   }
 })
+
+var keys = {
+  38: 'up',
+  40: 'down',
+  37: 'left',
+  39: 'right',
+  87: 'up', // w
+  65: 'left', // a
+  83: 'down', // s
+  68: 'right', // d
+}
