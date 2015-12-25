@@ -32,6 +32,7 @@ module.exports = React.createClass({
     window.addEventListener('keyup', this.onKeyUp)
     var lastTime = Date.now()
     this.moveInterval = setInterval(this.moveLoop, 0)
+    this.solidCanvas = this.createSolidCanvas()
   },
 
   componentWillUnmount() {
@@ -127,8 +128,37 @@ module.exports = React.createClass({
     var theta = this.calculateTheta()
     var x = this.state.x - (Math.cos(theta) * v)
     var y = this.state.y - (Math.sin(theta) * v)
+
+    var px = x + this.props.width / 2
+    var py = y + this.props.height / 2
+
+    var collision = this.checkSolid(px, py)
+
+    if (collision) return
+
     var distance = this.state.distance + v
     this.setState({x: x, y: y, distance: distance})
+  },
+
+  createSolidCanvas() {
+    var canvas = document.createElement('canvas')
+    canvas.width = 2047
+    canvas.height = 2041
+    var ctx = canvas.getContext('2d')
+    var img = document.createElement('img')
+    img.src = '/assets/maps/fourside-solid.gif'
+    img.onload = function () { ctx.drawImage(img, 0, 0) }
+    return canvas
+  },
+
+  checkSolid(x, y) {
+    var ctx = this.solidCanvas.getContext('2d')
+    var data = ctx.getImageData(x, y, 10, 10).data
+    var collision = false
+    for (var i = 0; i < data.length; i++) {
+      if (data[i] > 0) collision = true
+    }
+    return collision
   }
 })
 
