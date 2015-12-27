@@ -1,3 +1,4 @@
+var _ = require('lodash')
 var React = require('react')
 var Player = require('./player.jsx')
 
@@ -15,14 +16,37 @@ module.exports = React.createClass({
 
   getInitialState() {
     return {
-      x: 250,
-      y: 1620,
+      x: 140,
+      y: 1420,
       isMovingNorth: false,
       isMovingSouth: false,
       isMovingWest: false,
       isMovingEast: false,
       theta: 0,
-      distance: 0
+      distance: 0,
+      characters: [
+        {
+          name: 'king',
+          theta: Math.PI,
+          x: 300,
+          y: 1500,
+          step: 0
+        },
+        {
+          name: 'suit-man',
+          theta: Math.PI,
+          x: 280,
+          y: 1510,
+          step: 0
+        },
+        {
+          name: 'runaway-dog',
+          theta: Math.PI,
+          x: 280 + 20,
+          y: 1510 + 5,
+          step: 0
+        }
+      ]
     }
   },
 
@@ -40,6 +64,7 @@ module.exports = React.createClass({
   },
 
   render () {
+    var self = this
     var style = this.createStyle()
     var theta = this.calculateTheta()
 
@@ -55,55 +80,65 @@ module.exports = React.createClass({
 
     return (
       <div style={style}>
-        <Player
-          name={'paula'}
-          theta={theta}
-          x={px}
-          y={py}
-          step={step}
-          nDirections={8} />
+        <div>
+          {this.getCharacters().map(function (c) {
+            var [x, y] = self.convertCoords(c.x, c.y)
+            return (
+              <Player
+                className={c.name}
+                key={c.name}
+                name={c.name}
+                theta={c.theta}
+                x={x}
+                y={y}
+                step={c.step}/>
+            )
+          })}
+        </div>
 
-        <Player
-          name={'king'}
-          theta={Math.PI}
-          x={kx}
-          y={ky}
-          step={kStep}
-          nDirections={8} />
-
-        <Player
-          name={'suit-man'}
-          theta={-Math.PI/2}
-          x={sx}
-          y={sy}
-          step={kStep}
-          nDirections={8} />
-
-        <Player
-          name={'runaway-dog'}
-          theta={-Math.PI/2}
-          x={kx+20}
-          y={ky+5}
-          step={kStep}
-          nDirections={8} />
       </div>
     )
   },
 
+  getCharacters () {
+    var chars = this.state.characters.concat([this.getPlayer()])
+    return _.sortBy(chars, function (c) {
+      return c.y
+    })
+  },
+
+  getPlayer () {
+    var theta = this.calculateTheta()
+    if (!this.isMoving()) theta = this.state.lastTheta
+
+    var step = Math.floor(this.state.distance/12) % 2
+
+    return {
+      name: 'paula',
+      theta: theta,
+      step: step,
+      x: this.state.x,
+      y: this.state.y
+    }
+  },
+
   convertCoords(xMap, yMap) {
-    var x = xMap - this.state.x
-    var y = yMap - this.state.y
+    var x = xMap - this.state.x + this.props.width/2
+    var y = yMap - this.state.y + this.props.height/2
     return [x, y]
   },
 
   createStyle () {
+    var left = -1 * (this.state.x)  + 'px'
+    var top = -1 * (this.state.y)  + 'px'
+
     var style = {
       // border: '1px solid red',
       width: this.props.width,
       height: this.props.height,
       position: 'relative',
       backgroundImage: 'url(assets/maps/fourside.png)',
-      backgroundPosition: [-this.state.x+'px', -this.state.y+'px'].join(' '),
+      backgroundPosition: [left, top].join(' '),
       backgroundRepeat: 'no-repeat',
       imageRendering: 'pixelated',
       boxShadow: '0px 2px 10px 4px rgba(0,0,0,0.5)',
