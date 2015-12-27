@@ -44,6 +44,9 @@ module.exports = React.createClass({
       // border: '1px solid pink',
       width: this.state.width,
       height: this.state.height,
+      position: 'absolute',
+      left: this.props.x - this.state.width/2,
+      top: this.props.y - this.state.height,
       background: 'url(' + this.state.sprite + ')',
       backgroundPosition: [-x+'px', -y+'px'].join(' '),
       transform: 'scaleX(' + flip + ')'

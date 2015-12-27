@@ -1,0 +1,39 @@
+{
+  "width": 16,
+  "height": 24,
+  "sprite": "/assets/sprites/SuitMan.png",
+  "orientations": {
+    "south": [
+      [0, 0, false],
+      [0, 0, true]
+    ],
+    "north": [
+      [1, 0, false],
+      [1, 0, true]
+    ],
+    "west": [
+      [0, 1, false],
+      [1, 1, false]
+    ],
+    "east": [
+      [0, 1, true],
+      [1, 1, true]
+    ],
+    "southWest": [
+      [0, 0, false],
+      [0, 0, true]
+    ],
+    "southEast": [
+      [0, 0, false],
+      [0, 0, true]
+    ],
+    "northWest": [
+      [1, 0, false],
+      [1, 0, true]
+    ],
+    "northEast": [
+      [1, 0, false],
+      [1, 0, true]
+    ]
+  }
+}

@@ -44,17 +44,56 @@ module.exports = React.createClass({
     var theta = this.calculateTheta()
 
     if (!this.isMoving()) theta = this.state.lastTheta
-    var step = Math.floor(this.state.distance/8) % 2
+    var step = Math.floor(this.state.distance/12) % 2
+
+    var px = this.props.width/2
+    var py = this.props.height/2
+
+    var [kx, ky] = this.convertCoords(300, 1500)
+    var [sx, sy] = this.convertCoords(280, 1510)
+    var kStep = Math.floor(Date.now()/2000) % 2
 
     return (
       <div style={style}>
         <Player
           name={'paula'}
           theta={theta}
+          x={px}
+          y={py}
           step={step}
+          nDirections={8} />
+
+        <Player
+          name={'king'}
+          theta={Math.PI}
+          x={kx}
+          y={ky}
+          step={kStep}
+          nDirections={8} />
+
+        <Player
+          name={'suit-man'}
+          theta={-Math.PI/2}
+          x={sx}
+          y={sy}
+          step={kStep}
+          nDirections={8} />
+
+        <Player
+          name={'runaway-dog'}
+          theta={-Math.PI/2}
+          x={kx+20}
+          y={ky+5}
+          step={kStep}
           nDirections={8} />
       </div>
     )
+  },
+
+  convertCoords(xMap, yMap) {
+    var x = xMap - this.state.x
+    var y = yMap - this.state.y
+    return [x, y]
   },
 
   createStyle () {
@@ -70,7 +109,9 @@ module.exports = React.createClass({
       boxShadow: '0px 2px 10px 4px rgba(0,0,0,0.5)',
       display: 'flex',
       alignItems: 'center',
-      justifyContent: 'center'
+      justifyContent: 'center',
+      overflow: 'hidden',
+      transform: 'scale(2)'
     }
 
     return style
@@ -157,7 +198,7 @@ module.exports = React.createClass({
 
   checkSolid(x, y) {
     var ctx = this.solidCanvas.getContext('2d')
-    var data = ctx.getImageData(x, y, 10, 10).data
+    var data = ctx.getImageData(x, y, 16, 1).data
     var collision = false
     for (var i = 0; i < data.length; i++) {
       if (data[i] > 0) collision = true

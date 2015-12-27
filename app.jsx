@@ -18,14 +18,16 @@ module.exports = React.createClass({
   },
 
   componentWillMount() {
-    window.addEventListener('resize', this.onResize)  
+    window.addEventListener('resize', this.onResize)
   },
 
   render () {
     var style = this.createStyle()
     return (
       <div style={style}>
-        <Game width={this.props.gameWidth} height={this.props.gameHeight} />
+        <Game
+          width={this.props.gameWidth}
+          height={this.props.gameHeight} />
       </div>
     )
   },
