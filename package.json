@@ -6,7 +6,8 @@
   "scripts": {
     "start": "budo index.js",
     "dev": "budo index.jsx --serve bundle.js --dir ./public -- --debug -t babelify -t [ cssify --modules ] -p browserify-hmr",
-    "build": "NODE_ENV=production browserify -t babelify -t [ cssify --modules ] index.jsx | uglifyjs -mc > public/bundle.js"
+    "build": "NODE_ENV=production browserify -t babelify -t [ cssify --modules ] index.jsx | uglifyjs -mc > public/bundle.js",
+    "deploy": "npm run build && surge public"
   },
   "keywords": [],
   "author": "David Guttman <david@guttman.io> (http://davidguttman.com/)",
