@@ -2,6 +2,8 @@ var _ = require('lodash')
 var React = require('react')
 var Player = require('./player.jsx')
 
+var TAU = 2 * Math.PI
+
 module.exports = React.createClass({
 
   getDefaultProps() {
@@ -16,8 +18,8 @@ module.exports = React.createClass({
 
   getInitialState() {
     return {
-      x: 140,
-      y: 1420,
+      x: 300,
+      y: 1520,
       isMovingNorth: false,
       isMovingSouth: false,
       isMovingWest: false,
@@ -26,25 +28,46 @@ module.exports = React.createClass({
       distance: 0,
       characters: [
         {
-          name: 'king',
+          name: 'suit-man',
           theta: Math.PI,
-          x: 300,
-          y: 1500,
+          loc: {
+            x: 180,
+            y: 1490},
           step: 0
         },
         {
-          name: 'suit-man',
-          theta: Math.PI,
-          x: 280,
-          y: 1510,
-          step: 0
+          name: 'king',
+          loc: function (t) {
+            var x0 = 300
+            var y0 = 1490
+            var p = (t % 4000) / 4000
+            var posTheta = TAU * p
+
+            var x = x0 + 100 * Math.cos(posTheta)
+            return {
+              x: x,
+              y: y0,
+              theta: p < 0.50 ? 0 : Math.PI,
+              step: Math.floor(x/12) % 2
+            }
+          }
         },
         {
           name: 'runaway-dog',
-          theta: Math.PI,
-          x: 280 + 20,
-          y: 1510 + 5,
-          step: 0
+          loc: function (t) {
+            var x0 = 300
+            var y0 = 1490
+            var p = ((t-250) % 4000) / 4000
+            var posTheta = TAU * p
+
+            var x = x0 + 100 * Math.cos(posTheta)
+            return {
+              x: x,
+              y: y0-4,
+              theta: p < 0.50 ? 0 : Math.PI,
+              step: Math.floor(x/12) % 2
+            }
+          }
         }
       ]
     }
@@ -78,19 +101,23 @@ module.exports = React.createClass({
     var [sx, sy] = this.convertCoords(280, 1510)
     var kStep = Math.floor(Date.now()/2000) % 2
 
+    var now = Date.now()
+
     return (
       <div style={style}>
         <div>
           {this.getCharacters().map(function (c) {
-            var [x, y] = self.convertCoords(c.x, c.y)
+            var {x, y} = c.loc
+            var [mx, my] = self.convertCoords(x, y)
+
             return (
               <Player
                 className={c.name}
                 key={c.name}
                 name={c.name}
                 theta={c.theta}
-                x={x}
-                y={y}
+                x={mx}
+                y={my}
                 step={c.step}/>
             )
           })}
@@ -101,9 +128,34 @@ module.exports = React.createClass({
   },
 
   getCharacters () {
-    var chars = this.state.characters.concat([this.getPlayer()])
+    var now = Date.now()
+    var chars = this.state.characters.concat([this.getPlayer()]).map(function (c) {
+      var x, y, theta, step, loc
+      if (typeof c.loc === 'function') {
+        loc = c.loc(now)
+        x = loc.x
+        y = loc.y
+        theta = loc.theta
+        step = loc.step
+      } else {
+        x = c.loc.x
+        y = c.loc.y
+        theta = c.theta
+        step = c.step
+      }
+
+      return {
+        name: c.name,
+        loc: {
+          x: x,
+          y: y
+        },
+        theta: theta,
+        step: step
+      }
+    })
     return _.sortBy(chars, function (c) {
-      return c.y
+      return c.loc.y
     })
   },
 
@@ -117,8 +169,10 @@ module.exports = React.createClass({
       name: 'paula',
       theta: theta,
       step: step,
-      x: this.state.x,
-      y: this.state.y
+      loc: {
+        x: this.state.x,
+        y: this.state.y
+      }
     }
   },
 
